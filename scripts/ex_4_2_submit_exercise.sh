@@ -1,0 +1,2 @@
+SOLUTION_ADDRESS=0x05dfe4de8e32732960ed929fa1afa7e799e4baf76ce600da53303ccce97869f1
+nile invoke --network goerli Evaluator submit_exercise $SOLUTION_ADDRESS

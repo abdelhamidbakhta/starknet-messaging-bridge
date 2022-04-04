@@ -1,3 +1,4 @@
 0x02a77bb771fdcb0966639bab6e2b5842e7d0e7dff2f8258e3aee8e38695d98f6:./artifacts/abis/Evaluator.json:Evaluator
 0x01c1a868018f540bc456d2ba4859d20b06a8542fa447cd499f7372d9fd1c1bf9:./artifacts/abis/TDERC20.json:Points
 0x037c879f5580de012fc2dc48ab427c92574b2c82e6d7a9d58a8a21ce491d8ce8:artifacts/abis/ex1.json:ex1
+0x05dfe4de8e32732960ed929fa1afa7e799e4baf76ce600da53303ccce97869f1:artifacts/abis/ex4.json:ex4

@@ -1,0 +1,1 @@
+nile invoke --network goerli Evaluator ex4_b
