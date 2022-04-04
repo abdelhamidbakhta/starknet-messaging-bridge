@@ -1,0 +1,2 @@
+L1_CONTRACT_ADDRESS=0x6DD77805FD35c91EF6b2624Ba538Ed920b8d0b4E
+nile deploy --network goerli ex1 $L1_CONTRACT_ADDRESS --alias ex1 

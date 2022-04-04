@@ -135,7 +135,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-goerli.deployments.txt
 Makefile
 
 node.json

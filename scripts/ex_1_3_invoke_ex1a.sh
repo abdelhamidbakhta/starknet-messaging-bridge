@@ -1,0 +1,2 @@
+L1_USER=0xC3298C6341f82468309302611e24D3003Bc79B46
+nile invoke --network goerli Evaluator ex1a $L1_USER
